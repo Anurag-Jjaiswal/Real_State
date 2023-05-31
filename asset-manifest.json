@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Real_State/static/css/main.71284e9a.css",
+    "main.js": "/Real_State/static/js/main.82ded3d2.js",
+    "static/media/house1.jpg": "/Real_State/static/media/house1.a213389724462dc15a8a.jpg",
+    "static/media/houses.png": "/Real_State/static/media/houses.a9cf055c5bc93061af83.png",
+    "static/media/city.jpg": "/Real_State/static/media/city.f6ba6188ebd4d9537375.jpg",
+    "static/media/house.png": "/Real_State/static/media/house.1656314fd1f5e2efa0b9.png",
+    "index.html": "/Real_State/index.html",
+    "main.71284e9a.css.map": "/Real_State/static/css/main.71284e9a.css.map",
+    "main.82ded3d2.js.map": "/Real_State/static/js/main.82ded3d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71284e9a.css",
+    "static/js/main.82ded3d2.js"
+  ]
+}
